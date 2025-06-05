@@ -1,0 +1,34 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environments
+venv/
+.mochi_health/
+
+# Environment & secret files
+.env
+.env.*
+*.env
+service_account.json
+
+# Streamlit & caching
+.streamlit/
+
+# Test & coverage crap
+.pytest_cache/
+coverage/
+
+# IDE / editor folders
+.idea/
+.vscode/
+
+# macOS
+.DS_Store
