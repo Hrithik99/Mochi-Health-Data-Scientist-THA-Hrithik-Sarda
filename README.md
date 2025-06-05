@@ -4,7 +4,7 @@ Hello Mochi Team,
 
 Thank you for the opportunity to work on this take-home project!  
 
-THis app is a lightweight, real-time Streamlit dashboard for logging and visualizing the mood of each support ticket. This app is designed for distributed teams—each entry is stored in a shared Google Sheet, so anyone can see the mood of the queue as it evolves throughout the day.
+THis app is a lightweight, real-time (refreshes every 9s) Streamlit dashboard for logging and visualizing the mood of each support ticket. This app is designed for distributed teams—each entry is stored in a shared Google Sheet, so anyone can see the mood of the queue as it evolves throughout the day.
 
 ---
 
@@ -104,7 +104,7 @@ THis app is a lightweight, real-time Streamlit dashboard for logging and visuali
   - `google-auth`
   - `pandas`
   - `plotly`
-  - `streamlit-extras`
+  - `streamlit-autorefresh`
   - `python-dotenv` (for local development)
 
 ---
