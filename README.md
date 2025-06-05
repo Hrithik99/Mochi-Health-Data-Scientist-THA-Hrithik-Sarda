@@ -36,7 +36,7 @@ THis app is a lightweight, real-time Streamlit dashboard for logging and visuali
 ## Demo
 
 <!-- Replace with a real screenshot if available -->
-<img src="https://drive.google.com/file/d/1cXN4FmoQaGM7JBDgb6KWj6kijIDpswS0/view?usp=sharing" width="600" />
+<img src="./images/mood_queue.png" width="600" />
 
 ---
 
@@ -154,6 +154,6 @@ Thank you for reviewing my submission and for the engaging challenge.**
 
 ## Created By:
 
-**Hrithik Sarda**
-**Phone: 9786540445**
-**Email: hrithik.sarda1@gmail.com**
+    **Hrithik Sarda**
+    **Phone: 9786540445**
+    **Email: hrithik.sarda1@gmail.com**
